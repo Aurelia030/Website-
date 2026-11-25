@@ -1,19 +1,21 @@
-# Aurelia Apartments – Version 14
+# Aurelia Apartments – Version 15
 
 Website in Deutsch, Englisch und Spanisch. Deutsch ist Standard; Tally bleibt vorerst deutsch.
 
-## Version 14 bei STRATO aktualisieren
+## Version 15 bei STRATO aktualisieren
 
-1. `downloads/Aurelia-Update-14.zip` herunterladen und entpacken.
+1. `downloads/Aurelia-Update-15.zip` herunterladen und entpacken.
 2. Die beiden neuen WebP-Dateien aus `assets/` nach `/home/www/public/Aurelia-v13/assets/` hochladen.
 3. Danach die neue `index.html` nach `/home/www/public/Aurelia-v13/` hochladen und die bisherige Datei ersetzen.
-4. Hauptdomain in einem privaten Browserfenster testen: Bilder, Sprachen, Menüs, Galerien, Datenschutz-Auswahl und Formular. Die bestehende .htaccess bleibt erhalten. Der Installationsordner heißt weiterhin `Aurelia-v13`; sein Inhalt ist danach Version 14.
+4. Hauptdomain in einem privaten Browserfenster testen: Bilder, Sprachen, Menüs, Galerien, Datenschutz-Auswahl und Formular. Die bestehende .htaccess bleibt erhalten. Der Installationsordner heißt weiterhin `Aurelia-v13`; sein Inhalt ist danach Version 15.
 
 ## Lokal ansehen und sichern
 
-`standalone/Aurelia-Apartments-14.html` ist die eigenständige Vorschau mit allen benötigten Bildern und Schriften. Version 13 bleibt separat als Sicherung erhalten. Externe Dienste benötigen eine Internetverbindung und Einwilligung.
+`standalone/Aurelia-Apartments-15.html` ist die eigenständige Vorschau mit allen benötigten Bildern und Schriften. Versionen 13 und 14 bleiben separat als Sicherung erhalten. Externe Dienste benötigen eine Internetverbindung und Einwilligung.
 
 ## Änderungen
+
+Version 15: ANTONIUS 3.800,00 € monatlich; LEANDROS 2.800,00 € monatlich und 350,00 € einmalige Endreinigung. Alle drei Sprachen und die Übersicht/Detailseite sind aktualisiert. Die folgenden Verbesserungen aus Version 14 sind ebenfalls enthalten:
 
 - Mobile Textabstände an ausgeblendeten Zeilenumbrüchen korrigiert, auch Englisch/Spanisch.
 - Native Touch-/Mausradnavigation statt eigener Scroll-Bremse; mobile Effekte reduziert.
@@ -30,6 +32,8 @@ Die Website enthält kein eigenes Besuchertracking. Im STRATO-Kundenbereich ware
 Die Datenschutzseiten enthalten weiterhin Entwurfshinweise zu noch nicht bestätigten Vertrags-, Speicher- und Löschangaben bei STRATO/Tally. Diese tatsächlichen Einstellungen müssen weiterhin abgeglichen werden. Die neuen Einwilligungsfunktionen ersetzen diese Prüfung nicht.
 
 ## Prüfung
+
+Version 15: 101 gezielte Preis-/Übersetzungsprüfungen bestanden; alle übrigen Apartmentdaten unverändert.
 
 734 Browserchecks über 48 Seiten-/Sprachkombinationen mit 320/390/430/1440 Pixeln sowie 6 gezielte Titelbildchecks bestanden. Externe Dienste wurden dabei durch Testantworten ersetzt; es wurden keine Formulare abgeschickt. Tatsächliche Zustellung und Live-Verhalten sind nach dem STRATO-Upload zu prüfen.
 
