@@ -1,19 +1,23 @@
-# Aurelia Apartments – Version 15
+# Aurelia Apartments – Version 16
 
 Website in Deutsch, Englisch und Spanisch. Deutsch ist Standard; Tally bleibt vorerst deutsch.
 
-## Version 15 bei STRATO aktualisieren
+## Version 16 bei STRATO aktualisieren
 
-1. `downloads/Aurelia-Update-15.zip` herunterladen und entpacken.
+1. `downloads/Aurelia-Update-16.zip` herunterladen und entpacken.
 2. Die beiden neuen WebP-Dateien aus `assets/` nach `/home/www/public/Aurelia-v13/assets/` hochladen.
 3. Danach die neue `index.html` nach `/home/www/public/Aurelia-v13/` hochladen und die bisherige Datei ersetzen.
-4. Hauptdomain in einem privaten Browserfenster testen: Bilder, Sprachen, Menüs, Galerien, Datenschutz-Auswahl und Formular. Die bestehende .htaccess bleibt erhalten. Der Installationsordner heißt weiterhin `Aurelia-v13`; sein Inhalt ist danach Version 15.
+4. Hauptdomain in einem privaten Browserfenster testen: Bilder, Sprachen, Menüs, Galerien, Datenschutz-Auswahl und Formular. Die bestehende .htaccess bleibt erhalten. Der Installationsordner heißt weiterhin `Aurelia-v13`; sein Inhalt ist danach Version 16.
 
 ## Lokal ansehen und sichern
 
-`standalone/Aurelia-Apartments-15.html` ist die eigenständige Vorschau mit allen benötigten Bildern und Schriften. Versionen 13 und 14 bleiben separat als Sicherung erhalten. Externe Dienste benötigen eine Internetverbindung und Einwilligung.
+`standalone/Aurelia-Apartments-16.html` ist die eigenständige Vorschau mit allen benötigten Bildern und Schriften. Versionen 13, 14 und 15 bleiben separat als Sicherung erhalten. Externe Dienste benötigen eine Internetverbindung und Einwilligung.
 
 ## Änderungen
+
+Version 16: LinkedIn-Profil von Matteo Hauschild bei der Vorstellung, Firmenprofil beim Unternehmenskontakt und beide Profile im Footer aller Seiten. Normale HTTPS-Links mit lokalem SVG-Symbol, kein LinkedIn-Widget und keine zusätzlichen Aufrufe beim Seitenladen. Die Firmenadresse https://www.linkedin.com/company/aurelia-apartments/ wurde vom Nutzer bestätigt; die Cloud konnte LinkedIn aufgrund der Netzwerkfreigabe nicht direkt prüfen. Persönlicher Link wie vom Nutzer angegeben: https://www.linkedin.com/in/matteo-hauschild-41599327b/.
+
+Persönlicher Vorstellungstext erneuert, wärmerer Einstieg mit möbliertem Apartment/möbliertem Zuhause; bisherige Marketingformulierungen „Zuhause auf Zeit“ entsprechend angepasst. Englisch und Spanisch mitgeführt. Alle Mietpreise, Mietdauern und übrigen Apartmentdaten bleiben gegenüber Version 15 unverändert.
 
 Version 15: ANTONIUS 3.800,00 € monatlich; LEANDROS 2.800,00 € monatlich und 350,00 € einmalige Endreinigung. Alle drei Sprachen und die Übersicht/Detailseite sind aktualisiert. Die folgenden Verbesserungen aus Version 14 sind ebenfalls enthalten:
 
@@ -32,6 +36,8 @@ Die Website enthält kein eigenes Besuchertracking. Im STRATO-Kundenbereich ware
 Die Datenschutzseiten enthalten weiterhin Entwurfshinweise zu noch nicht bestätigten Vertrags-, Speicher- und Löschangaben bei STRATO/Tally. Diese tatsächlichen Einstellungen müssen weiterhin abgeglichen werden. Die neuen Einwilligungsfunktionen ersetzen diese Prüfung nicht.
 
 ## Prüfung
+
+Version 16: 423 gezielte Prüfungen über 48 Seiten-/Sprachkombinationen sowie visuelle Kontrolle der neuen Buttons auf Handy und Desktop. Keine Drittanbieteraufrufe beim Seitenladen; keine Mietdaten geändert. Zieladressen, Linkattribute und Übersetzungen im Code geprüft. Die Existenz der LinkedIn-Zielseiten konnte technisch in der Cloud nicht unabhängig bestätigt werden.
 
 Version 15: 101 gezielte Preis-/Übersetzungsprüfungen bestanden; alle übrigen Apartmentdaten unverändert.
 
