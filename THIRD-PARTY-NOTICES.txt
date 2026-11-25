@@ -1,0 +1,8 @@
+Berlin district overview map
+
+Source: https://github.com/funkeinteraktiv/Berlin-Geodaten/blob/master/berlin_bezirke.geojson
+Administrative district geometries: Amt für Statistik Berlin-Brandenburg; prepared by m-hoerz / Berliner Morgenpost and collected by funkeinteraktiv. Source states CC-BY (licence version unspecified). Geometry simplified for general orientation; positions are approximate neighbourhood centres, not property coordinates. Original geometry metadata dates to 2013.
+
+Company logos
+
+The Aurelia mark was supplied for the project. Other company names are text labels; no external corporate logo has been recreated or fetched from an unverified source.

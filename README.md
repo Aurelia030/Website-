@@ -1,46 +1,36 @@
-# Aurelia Apartments – Version 16
+# Aurelia Apartments – Version 17
 
-Website in Deutsch, Englisch und Spanisch. Deutsch ist Standard; Tally bleibt vorerst deutsch.
+Website mit eigenen, vorgerenderten Seiten auf Deutsch, Englisch und Spanisch. Deutsch bleibt Standard.
 
-## Version 16 bei STRATO aktualisieren
+## Bei STRATO installieren
 
-1. `downloads/Aurelia-Update-16.zip` herunterladen und entpacken.
-2. Die beiden neuen WebP-Dateien aus `assets/` nach `/home/www/public/Aurelia-v13/assets/` hochladen.
-3. Danach die neue `index.html` nach `/home/www/public/Aurelia-v13/` hochladen und die bisherige Datei ersetzen.
-4. Hauptdomain in einem privaten Browserfenster testen: Bilder, Sprachen, Menüs, Galerien, Datenschutz-Auswahl und Formular. Die bestehende .htaccess bleibt erhalten. Der Installationsordner heißt weiterhin `Aurelia-v13`; sein Inhalt ist danach Version 16.
+Diese Version ist ein vollständiges Paket: `downloads/Aurelia-Website-17.zip`. Den gesamten Ordner `Aurelia-v17` nach `/home/www/public/` übertragen, zum Beispiel per SFTP. Anschließend ausschließlich den bisherigen Aurelia-Block in der bestehenden root `.htaccess` durch `deployment/htaccess-v17-block.txt` ersetzen; die übrigen vorhandenen Regeln behalten. Den alten Ordner `Aurelia-v13` für die Rückkehr erhalten. Ausführliche Schritte und Tests: `deployment/ANLEITUNG-17.md`. **Nicht nur index.html hochladen.**
 
-## Lokal ansehen und sichern
-
-`standalone/Aurelia-Apartments-16.html` ist die eigenständige Vorschau mit allen benötigten Bildern und Schriften. Versionen 13, 14 und 15 bleiben separat als Sicherung erhalten. Externe Dienste benötigen eine Internetverbindung und Einwilligung.
+Die Uploads sind noch vom Nutzer auszuführen. GitHub-Änderungen verändern STRATO nicht automatisch.
 
 ## Änderungen
 
-Version 16: LinkedIn-Profil von Matteo Hauschild bei der Vorstellung, Firmenprofil beim Unternehmenskontakt und beide Profile im Footer aller Seiten. Normale HTTPS-Links mit lokalem SVG-Symbol, kein LinkedIn-Widget und keine zusätzlichen Aufrufe beim Seitenladen. Die Firmenadresse https://www.linkedin.com/company/aurelia-apartments/ wurde vom Nutzer bestätigt; die Cloud konnte LinkedIn aufgrund der Netzwerkfreigabe nicht direkt prüfen. Persönlicher Link wie vom Nutzer angegeben: https://www.linkedin.com/in/matteo-hauschild-41599327b/.
+- Apartmentanfragen bleiben per E-Mail; Anruf-Button vergrößert und auf mobilen Apartmentseiten in der Kontaktleiste ergänzt.
+- Eigentümerseite: Sanierung und Möblierung im Vordergrund, Netzwerk qualifizierter Fachbetriebe und Hauschild ergänzend. Nicht verlinkte, nach links laufende Markenleiste mit Pause und reduzierter Bewegung; Nuki ergänzt.
+- Originale externe Logodateien fehlen noch: zurzeit ehrliche Namen, keine nachgebauten Logos. Siehe `deployment/PARTNER-LOGOS.md`.
+- 45 saubere Adressen (15 Inhalte in drei Sprachen), individuelle Seitentitel und Beschreibungen, Canonical/hreflang, Open Graph und strukturierte Daten. Alte Hash-Einstiege werden übernommen.
+- Apartmenttitel verwenden den jeweiligen Apartmentnamen. Beispiel: `/apartments/antonius/`, `/en/apartments/antonius/`, `/es/apartamentos/antonius/`.
+- Hauptinhalte sind bereits im ausgelieferten HTML enthalten. Gemeinsame JS-/CSS-Dateien sind separat cachebar.
+- `sitemap.xml` und `robots.txt` vorbereitet. Search Console muss im Nutzerkonto mit dem erhaltenen DNS-TXT-Eintrag bestätigt werden. Keine Indexierung garantiert oder als erfolgt behauptet.
+- Zusätzliche auswählbare Bezirks-Kartenansicht mit ungefährer Stadtteillage, ohne externe Kartendienste oder genaue Wohnungsadressen. Preise und Verfügbarkeitsanzeigen aus denselben Daten wie die Liste.
+- Eigentümeranfragen: bestätigte Antwortzeit zwei Werktage; ergänzende Bestätigung nur nach passendem Ereignis aus dem tatsächlich eingebetteten Tally-Frame. Native Tally-Dankeseite bleibt verfügbar.
+- Preise und Verfügbarkeiten aus Version 16 unverändert: ANTONIUS 3.800 €/Monat, LEANDROS 2.800 €/Monat plus 350 € Endreinigung, BRUTUS 1.490 €/Monat plus 290 € Endreinigung.
 
-Persönlicher Vorstellungstext erneuert, wärmerer Einstieg mit möbliertem Apartment/möbliertem Zuhause; bisherige Marketingformulierungen „Zuhause auf Zeit“ entsprechend angepasst. Englisch und Spanisch mitgeführt. Alle Mietpreise, Mietdauern und übrigen Apartmentdaten bleiben gegenüber Version 15 unverändert.
+## Tally und Google-Konto
 
-Version 15: ANTONIUS 3.800,00 € monatlich; LEANDROS 2.800,00 € monatlich und 350,00 € einmalige Endreinigung. Alle drei Sprachen und die Übersicht/Detailseite sind aktualisiert. Die folgenden Verbesserungen aus Version 14 sind ebenfalls enthalten:
+Die Website kann keine Übersetzungen oder E-Mail-Benachrichtigungen im Tally-Konto ändern. Anleitung und vorbereitete Dankestexte: `deployment/TALLY-SEARCH-CONSOLE.md`. Es wurden keine echten Formulare abgesendet. Tatsächliche Zustellung und Spracheinstellungen sind nach dem Upload im Konto zu prüfen. Der Google-DNS-Nachweis wurde vom Nutzer geliefert; der Erfolg der Kontoverifizierung wurde von hier nicht unabhängig bestätigt.
 
-- Mobile Textabstände an ausgeblendeten Zeilenumbrüchen korrigiert, auch Englisch/Spanisch.
-- Native Touch-/Mausradnavigation statt eigener Scroll-Bremse; mobile Effekte reduziert.
-- Handy-Menü mit den drei Hauptzielen; einzelne Apartments weiterhin auf der Apartmentseite und im Desktop-Menü erreichbar.
-- Mobile Typografie, Header, Abstände und Karten überarbeitet.
-- Eindeutige Kurzzeitangaben bei beiden Kurzzeitangeboten; der widersprüchliche Hinweis auf längere Aufenthalte ab 28 Tagen ist entfernt. Übrige Inhalte und Mietdauern bleiben erhalten.
-- Berlin- und Eigentümermotiv mit gleicher Auflösung in WebP, zusammen rund 87 Prozent kleiner und früh geladen.
-- Datenschutz-Auswahl mit gleichermaßen erreichbarem Ablehnen/Erlauben, separater Auswahl für Google Maps/Matterport/Tally, Widerruf und 180 Tagen lokaler Speicherung. Keine Analyse- oder Marketingwerkzeuge hinzugefügt.
+## Quelle und Build
 
-## Aufrufe und offene Punkte
+`src/app.html` ist die bearbeitbare App-Quelle einschließlich Übersetzungen. `node scripts/build-site.cjs` erzeugt die vorgerenderten Seiten, gemeinsamen JS-/CSS-Dateien, Sitemap und robots. Dafür werden Node.js, Playwright und Chromium benötigt. Hier wurde mit dem vorhandenen Cloud-Tooling gebaut und getestet. Root-index.html und die Unterseiten sind erzeugte Dateien. Eigenständige Offline-Ansicht: `standalone/Aurelia-Apartments-17.html`; die Produktion nutzt saubere Pfade. Frühere Versionen bleiben gesichert.
 
-Die Website enthält kein eigenes Besuchertracking. Im STRATO-Kundenbereich waren die Menüpunkte Statistik und Logfiles sichtbar. Für die statische HTML-Seite sind serverseitige Webspace-/Zugriffsstatistiken relevant; ein WordPress-Analyseplugin erfasst sie nicht automatisch. Serverzugriffe können auch Bots und Ressourcenabrufe enthalten und sind nicht mit eindeutigen Besuchern gleichzusetzen.
+## Prüfung und offene Punkte
 
-Die Datenschutzseiten enthalten weiterhin Entwurfshinweise zu noch nicht bestätigten Vertrags-, Speicher- und Löschangaben bei STRATO/Tally. Diese tatsächlichen Einstellungen müssen weiterhin abgeglichen werden. Die neuen Einwilligungsfunktionen ersetzen diese Prüfung nicht.
+1076 integrierte Browserprüfungen über 45 Seiten sowie 29 gezielte Nachprüfungen der endgültigen Karten-/Sprachänderung bestanden. Alle45 Seiten auch ohne JavaScript auf echte Inhalte geprüft; Telefon/E-Mail, Links, Sprachwechsel, Karte/Filter, Marquee und Tally-Ereignisgrenzen geprüft.359 echte Apache-HTTP-Prüfungen der aktuellen Serverregeln bestanden: richtige Statuscodes, Redirects, Assets, Sitemap/robots und Schutz der erhaltenen WordPress-Dateien. Drittanbieter durch Testantworten ersetzt; kein Versand an echte Empfänger.
 
-## Prüfung
-
-Version 16: 423 gezielte Prüfungen über 48 Seiten-/Sprachkombinationen sowie visuelle Kontrolle der neuen Buttons auf Handy und Desktop. Keine Drittanbieteraufrufe beim Seitenladen; keine Mietdaten geändert. Zieladressen, Linkattribute und Übersetzungen im Code geprüft. Die Existenz der LinkedIn-Zielseiten konnte technisch in der Cloud nicht unabhängig bestätigt werden.
-
-Version 15: 101 gezielte Preis-/Übersetzungsprüfungen bestanden; alle übrigen Apartmentdaten unverändert.
-
-734 Browserchecks über 48 Seiten-/Sprachkombinationen mit 320/390/430/1440 Pixeln sowie 6 gezielte Titelbildchecks bestanden. Externe Dienste wurden dabei durch Testantworten ersetzt; es wurden keine Formulare abgeschickt. Tatsächliche Zustellung und Live-Verhalten sind nach dem STRATO-Upload zu prüfen.
-
-Das GitHub-Update allein verändert die öffentliche STRATO-Website nicht.
+Offen bleiben Originalpartnerlogos, Einstellungen direkt in Tally, die Live-Prüfung nach STRATO-Upload und die bestehenden Datenschutz-Vertrags-/Speicherangaben. Neue Funktionen ersetzen diese Abgleiche nicht.
