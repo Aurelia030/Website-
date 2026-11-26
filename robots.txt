@@ -4,5 +4,6 @@ Disallow: /wp-admin/
 Disallow: /wp-login.php
 Disallow: /Aurelia-v13/
 Disallow: /Aurelia-v17/
+Disallow: /Aurelia-v18/
 
 Sitemap: https://aurelia-apartments.de/sitemap.xml

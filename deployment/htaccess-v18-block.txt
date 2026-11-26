@@ -1,0 +1,37 @@
+# BEGIN Aurelia static website v18
+# Apply only after the complete Aurelia-v18 folder has been uploaded.
+ErrorDocument 404 /Aurelia-v18/404.html
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# Old installation entry and explicit index URLs receive canonical addresses.
+RewriteCond %{THE_REQUEST} \s/+Aurelia-v13/(?:index\.html)?(?:[?\s]) [NC]
+RewriteRule ^Aurelia-v13/(?:index\.html)?$ / [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+Aurelia-v17(?:[/?\s]) [NC]
+RewriteRule ^Aurelia-v17(?:/(.*))?$ /$1 [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+Aurelia-v18/.+/index\.html(?:[?\s]) [NC]
+RewriteRule ^Aurelia-v18/(.+)/index\.html$ /$1/ [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+Aurelia-v18(?:[/?\s]) [NC]
+RewriteRule ^Aurelia-v18(?:/(.*))?$ /$1 [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+index\.html(?:[?\s]) [NC]
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+.+/index\.html(?:[?\s]) [NC]
+RewriteRule ^(.+)/index\.html$ /$1/ [R=301,L]
+# Shared, first-party assets and crawl files.
+RewriteRule ^assets/(.+)$ Aurelia-v18/assets/$1 [END]
+RewriteRule ^sitemap\.xml$ Aurelia-v18/sitemap.xml [END]
+RewriteRule ^robots\.txt$ Aurelia-v18/robots.txt [END]
+RewriteRule ^404\.html$ Aurelia-v18/404.html [END]
+RewriteRule ^$ Aurelia-v18/index.html [END]
+RewriteRule ^404/?$ - [R=404,END]
+# Only existing exported pages are routed; adding an apartment needs no new regex.
+RewriteCond %{DOCUMENT_ROOT}/Aurelia-v18/$1/index.html -f
+RewriteRule ^(.+[^/])$ /$1/ [R=301,L]
+RewriteCond %{DOCUMENT_ROOT}/Aurelia-v18/$1/index.html -f
+RewriteRule ^(.+)/$ Aurelia-v18/$1/index.html [END]
+# Unknown public pages return a real 404, rather than the old WP front page.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(?!(?:wp-admin|wp-includes|wp-content|wp-json)(?:/|$)).+ - [R=404,END]
+</IfModule>
+# END Aurelia static website v18
+

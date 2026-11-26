@@ -1,0 +1,3347 @@
+[
+  {
+    "page": "start",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/",
+    "title": "Möblierte Apartments in Berlin · Aurelia Apartments",
+    "description": "Möblierte Apartments in Berlin für kurze und mittelfristige Aufenthalte. Entdecken Sie die Wohnungen und die persönliche Betreuung von Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/",
+      "en": "https://aurelia-apartments.de/en/",
+      "es": "https://aurelia-apartments.de/es/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/#webpage",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Möblierte Apartments in Berlin",
+          "description": "Möblierte Apartments in Berlin für kurze und mittelfristige Aufenthalte. Entdecken Sie die Wohnungen und die persönliche Betreuung von Aurelia Apartments.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "eigentuemer",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/eigentuemer/",
+    "title": "Für Eigentümer · Aurelia Apartments",
+    "description": "Sanierung, Möblierung und Vermietung Ihrer Immobilie in Berlin: Lernen Sie die Leistungen und persönliche Betreuung von Aurelia Apartments kennen.",
+    "url": "https://aurelia-apartments.de/eigentuemer/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/eigentuemer/",
+      "en": "https://aurelia-apartments.de/en/owners/",
+      "es": "https://aurelia-apartments.de/es/propietarios/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/235de02994b07299ae8a.webp",
+    "imageAlt": "KI-generierte Beratungsszene: Matteo Hauschild von hinten im Gespräch mit einem fiktiven Eigentümer",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/eigentuemer/#webpage",
+          "url": "https://aurelia-apartments.de/eigentuemer/",
+          "name": "Für Eigentümer",
+          "description": "Sanierung, Möblierung und Vermietung Ihrer Immobilie in Berlin: Lernen Sie die Leistungen und persönliche Betreuung von Aurelia Apartments kennen.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/",
+    "title": "Apartments finden in Berlin · Aurelia Apartments",
+    "description": "Entdecken Sie möblierte Apartments in Berlin, vergleichen Sie Ausstattung und Mietzeiträume und fragen Sie Ihren gewünschten Aufenthalt an.",
+    "url": "https://aurelia-apartments.de/apartments/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/",
+      "en": "https://aurelia-apartments.de/en/apartments/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/",
+          "name": "Apartments finden in Berlin",
+          "description": "Entdecken Sie möblierte Apartments in Berlin, vergleichen Sie Ausstattung und Mietzeiträume und fragen Sie Ihren gewünschten Aufenthalt an.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "zeit",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/wohnen-auf-zeit/",
+    "title": "Wohnen auf Zeit in Berlin · Aurelia Apartments",
+    "description": "Möblierte Apartments für mittelfristige Aufenthalte in Berlin. Vergleichen Sie die Wohnungen, ihre Ausstattung und die jeweiligen Mietzeiträume.",
+    "url": "https://aurelia-apartments.de/apartments/wohnen-auf-zeit/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/wohnen-auf-zeit/",
+      "en": "https://aurelia-apartments.de/en/apartments/mid-term/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/temporada/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/wohnen-auf-zeit/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/wohnen-auf-zeit/",
+          "name": "Wohnen auf Zeit in Berlin",
+          "description": "Möblierte Apartments für mittelfristige Aufenthalte in Berlin. Vergleichen Sie die Wohnungen, ihre Ausstattung und die jeweiligen Mietzeiträume.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "kurzzeit",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/kurzzeit/",
+    "title": "Kurzzeitapartments in Berlin · Aurelia Apartments",
+    "description": "Möblierte Apartments für kurze Aufenthalte in Berlin-Moabit. Entdecken Sie Ausstattung, Bilder und die Möglichkeiten für Ihre Anfrage.",
+    "url": "https://aurelia-apartments.de/apartments/kurzzeit/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/kurzzeit/",
+      "en": "https://aurelia-apartments.de/en/apartments/short-term/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/corta-estancia/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/kurzzeit/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/kurzzeit/",
+          "name": "Kurzzeitapartments in Berlin",
+          "description": "Möblierte Apartments für kurze Aufenthalte in Berlin-Moabit. Entdecken Sie Ausstattung, Bilder und die Möglichkeiten für Ihre Anfrage.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "ueber-uns",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/ueber-uns/",
+    "title": "Über uns · Aurelia Apartments",
+    "description": "Lernen Sie Matteo Hauschild und Aurelia Apartments kennen: persönliche Betreuung, sorgfältig vorbereitete möblierte Apartments und Erfahrung aus der Hospitality-Branche.",
+    "url": "https://aurelia-apartments.de/ueber-uns/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/ueber-uns/",
+      "en": "https://aurelia-apartments.de/en/about/",
+      "es": "https://aurelia-apartments.de/es/sobre-nosotros/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/ueber-uns/#webpage",
+          "url": "https://aurelia-apartments.de/ueber-uns/",
+          "name": "Über uns",
+          "description": "Lernen Sie Matteo Hauschild und Aurelia Apartments kennen: persönliche Betreuung, sorgfältig vorbereitete möblierte Apartments und Erfahrung aus der Hospitality-Branche.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "anfrage",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/anfrage/",
+    "title": "Kostenlose Erstanalyse · Aurelia Apartments",
+    "description": "Fragen Sie eine kostenlose erste Einschätzung zu Ihrer Immobilie an. Aurelia Apartments begleitet Eigentümer bei Vorbereitung und Vermietung.",
+    "url": "https://aurelia-apartments.de/anfrage/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/anfrage/",
+      "en": "https://aurelia-apartments.de/en/enquiry/",
+      "es": "https://aurelia-apartments.de/es/consulta/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/anfrage/#webpage",
+          "url": "https://aurelia-apartments.de/anfrage/",
+          "name": "Kostenlose Erstanalyse",
+          "description": "Fragen Sie eine kostenlose erste Einschätzung zu Ihrer Immobilie an. Aurelia Apartments begleitet Eigentümer bei Vorbereitung und Vermietung.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "sanierung",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/sanierung/",
+    "title": "Sanierung und Möblierung · Aurelia Apartments",
+    "description": "Entdecken Sie die Vorbereitung, Sanierung und Möblierung von Apartments sowie die Zusammenarbeit mit qualifizierten Fachbetrieben.",
+    "url": "https://aurelia-apartments.de/sanierung/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/sanierung/",
+      "en": "https://aurelia-apartments.de/en/refurbishment/",
+      "es": "https://aurelia-apartments.de/es/reformas/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/sanierung/#webpage",
+          "url": "https://aurelia-apartments.de/sanierung/",
+          "name": "Sanierung und Möblierung",
+          "description": "Entdecken Sie die Vorbereitung, Sanierung und Möblierung von Apartments sowie die Zusammenarbeit mit qualifizierten Fachbetrieben.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "impressum",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/impressum/",
+    "title": "Impressum · Aurelia Apartments",
+    "description": "Anbieter- und Kontaktdaten der Aurelia Apartments UG (haftungsbeschränkt) in Berlin.",
+    "url": "https://aurelia-apartments.de/impressum/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/impressum/",
+      "en": "https://aurelia-apartments.de/en/legal-notice/",
+      "es": "https://aurelia-apartments.de/es/aviso-legal/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/impressum/#webpage",
+          "url": "https://aurelia-apartments.de/impressum/",
+          "name": "Impressum",
+          "description": "Anbieter- und Kontaktdaten der Aurelia Apartments UG (haftungsbeschränkt) in Berlin.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "datenschutz",
+    "filter": "",
+    "lang": "de",
+    "found": true,
+    "path": "/datenschutz/",
+    "title": "Datenschutz · Aurelia Apartments",
+    "description": "Informationen zum Datenschutz, zu Ihren Rechten und zur Auswahl optionaler externer Inhalte bei Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/datenschutz/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/datenschutz/",
+      "en": "https://aurelia-apartments.de/en/privacy/",
+      "es": "https://aurelia-apartments.de/es/privacidad/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "KI-generierte Berlin-Ansicht mit Spree, Berliner Dom und Fernsehturm",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/datenschutz/#webpage",
+          "url": "https://aurelia-apartments.de/datenschutz/",
+          "name": "Datenschutz",
+          "description": "Informationen zum Datenschutz, zu Ihren Rechten und zur Auswahl optionaler externer Inhalte bei Aurelia Apartments.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "antonius",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/antonius/",
+    "title": "ANTONIUS · Aurelia Apartments",
+    "description": "Eine moderne, voll möblierte und ausgestattete Residenz für Wohnen auf Zeit in Berlin. Möbliertes Apartment in Friedrichshain. Ausstattung und Mietkonditionen auf Anfrage.",
+    "url": "https://aurelia-apartments.de/apartments/antonius/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/antonius/",
+      "en": "https://aurelia-apartments.de/en/apartments/antonius/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/antonius/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/35adae45724dc2ac1e96.webp",
+    "imageAlt": "Gesamtansicht des Wohnzimmers mit Sitzbereich, Bilderwand und Blick in den Essbereich",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/antonius/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/antonius/",
+          "name": "ANTONIUS",
+          "description": "Eine moderne, voll möblierte und ausgestattete Residenz für Wohnen auf Zeit in Berlin. Möbliertes Apartment in Friedrichshain. Ausstattung und Mietkonditionen auf Anfrage.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/apartments/antonius/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/apartments/antonius/#apartment",
+          "name": "ANTONIUS",
+          "description": "Eine moderne, voll möblierte und ausgestattete Residenz für Wohnen auf Zeit in Berlin.",
+          "url": "https://aurelia-apartments.de/apartments/antonius/",
+          "image": "https://aurelia-apartments.de/assets/35adae45724dc2ac1e96.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "brutus",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/brutus/",
+    "title": "BRUTUS · Aurelia Apartments",
+    "description": "Ein hochwertiges, voll möbliertes Studio für Corporate- und mittelfristige Aufenthalte in Berlin. Möbliertes Apartment in Wilmersdorf. Ausstattung und Mietkonditionen auf Anfrage.",
+    "url": "https://aurelia-apartments.de/apartments/brutus/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/brutus/",
+      "en": "https://aurelia-apartments.de/en/apartments/brutus/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/brutus/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/8a8f79aeee60493d5cb0.webp",
+    "imageAlt": "Wohnbereich mit Sofa, Esstisch und TV-Möbel",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/brutus/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/brutus/",
+          "name": "BRUTUS",
+          "description": "Ein hochwertiges, voll möbliertes Studio für Corporate- und mittelfristige Aufenthalte in Berlin. Möbliertes Apartment in Wilmersdorf. Ausstattung und Mietkonditionen auf Anfrage.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/apartments/brutus/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/apartments/brutus/#apartment",
+          "name": "BRUTUS",
+          "description": "Ein hochwertiges, voll möbliertes Studio für Corporate- und mittelfristige Aufenthalte in Berlin.",
+          "url": "https://aurelia-apartments.de/apartments/brutus/",
+          "image": "https://aurelia-apartments.de/assets/8a8f79aeee60493d5cb0.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "leandros",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/leandros/",
+    "title": "LEANDROS · Aurelia Apartments",
+    "description": "Ein möbliertes Refugium mit privater grüner Terrasse und gemeinschaftlicher Dachterrasse. Möbliertes Apartment in Prenzlauer Berg. Ausstattung und Mietkonditionen auf Anfrage.",
+    "url": "https://aurelia-apartments.de/apartments/leandros/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/leandros/",
+      "en": "https://aurelia-apartments.de/en/apartments/leandros/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/leandros/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/cf935ba29ad15df4871a.webp",
+    "imageAlt": "Heller Wohnbereich mit Sofa, offener Küche und Zugang zur privaten Terrasse",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/leandros/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/leandros/",
+          "name": "LEANDROS",
+          "description": "Ein möbliertes Refugium mit privater grüner Terrasse und gemeinschaftlicher Dachterrasse. Möbliertes Apartment in Prenzlauer Berg. Ausstattung und Mietkonditionen auf Anfrage.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/apartments/leandros/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/apartments/leandros/#apartment",
+          "name": "LEANDROS",
+          "description": "Ein möbliertes Refugium mit privater grüner Terrasse und gemeinschaftlicher Dachterrasse.",
+          "url": "https://aurelia-apartments.de/apartments/leandros/",
+          "image": "https://aurelia-apartments.de/assets/cf935ba29ad15df4871a.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "myhappyplace",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/myhappyplace/",
+    "title": "Myhappyplace in the middle of Berlin · Aurelia Apartments",
+    "description": "Zwei Schlafzimmer, zwei Badezimmer und eine ausgestattete Küche für Ihren Aufenthalt in Berlin-Moabit. Möbliertes Apartment in Moabit. Ausstattung und Mietkonditionen auf Anfrage.",
+    "url": "https://aurelia-apartments.de/apartments/myhappyplace/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/myhappyplace/",
+      "en": "https://aurelia-apartments.de/en/apartments/myhappyplace/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/ee0e4d2f248cb732b6e6.webp",
+    "imageAlt": "Heller Wohnbereich mit Sofa, Essplatz und TV",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/myhappyplace/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/myhappyplace/",
+          "name": "Myhappyplace in the middle of Berlin",
+          "description": "Zwei Schlafzimmer, zwei Badezimmer und eine ausgestattete Küche für Ihren Aufenthalt in Berlin-Moabit. Möbliertes Apartment in Moabit. Ausstattung und Mietkonditionen auf Anfrage.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/apartments/myhappyplace/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/apartments/myhappyplace/#apartment",
+          "name": "Myhappyplace in the middle of Berlin",
+          "description": "Zwei Schlafzimmer, zwei Badezimmer und eine ausgestattete Küche für Ihren Aufenthalt in Berlin-Moabit.",
+          "url": "https://aurelia-apartments.de/apartments/myhappyplace/",
+          "image": "https://aurelia-apartments.de/assets/ee0e4d2f248cb732b6e6.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "myhappyplace-two",
+    "lang": "de",
+    "found": true,
+    "path": "/apartments/myhappyplace-two/",
+    "title": "Myhappyplace two in the middle of Berlin · Aurelia Apartments",
+    "description": "Ihr Apartment für einen kurzen Aufenthalt in Berlin-Moabit, im Umfeld der Wiclefstraße. Möbliertes Apartment in Moabit. Ausstattung und Mietkonditionen auf Anfrage.",
+    "url": "https://aurelia-apartments.de/apartments/myhappyplace-two/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/myhappyplace-two/",
+      "en": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/0c7ddf01f26c07e7a85b.jpg",
+    "imageAlt": "Heller Wohnbereich mit Esstisch, Sofa und Küchenzeile",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/apartments/myhappyplace-two/#webpage",
+          "url": "https://aurelia-apartments.de/apartments/myhappyplace-two/",
+          "name": "Myhappyplace two in the middle of Berlin",
+          "description": "Ihr Apartment für einen kurzen Aufenthalt in Berlin-Moabit, im Umfeld der Wiclefstraße. Möbliertes Apartment in Moabit. Ausstattung und Mietkonditionen auf Anfrage.",
+          "inLanguage": "de",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/apartments/myhappyplace-two/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/apartments/myhappyplace-two/#apartment",
+          "name": "Myhappyplace two in the middle of Berlin",
+          "description": "Ihr Apartment für einen kurzen Aufenthalt in Berlin-Moabit, im Umfeld der Wiclefstraße.",
+          "url": "https://aurelia-apartments.de/apartments/myhappyplace-two/",
+          "image": "https://aurelia-apartments.de/assets/0c7ddf01f26c07e7a85b.jpg",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "start",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/",
+    "title": "Furnished apartments in Berlin · Aurelia Apartments",
+    "description": "Furnished apartments in Berlin for short and mid-term stays. Explore the apartments and the personal support offered by Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/en/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/",
+      "en": "https://aurelia-apartments.de/en/",
+      "es": "https://aurelia-apartments.de/es/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/#webpage",
+          "url": "https://aurelia-apartments.de/en/",
+          "name": "Furnished apartments in Berlin",
+          "description": "Furnished apartments in Berlin for short and mid-term stays. Explore the apartments and the personal support offered by Aurelia Apartments.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "eigentuemer",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/owners/",
+    "title": "For property owners · Aurelia Apartments",
+    "description": "Refurbishment, furnishing and letting your property in Berlin: discover the services and personal support offered by Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/en/owners/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/eigentuemer/",
+      "en": "https://aurelia-apartments.de/en/owners/",
+      "es": "https://aurelia-apartments.de/es/propietarios/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/235de02994b07299ae8a.webp",
+    "imageAlt": "AI-generated scene: Matteo Hauschild seen from behind, advising a fictional property owner",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/owners/#webpage",
+          "url": "https://aurelia-apartments.de/en/owners/",
+          "name": "For property owners",
+          "description": "Refurbishment, furnishing and letting your property in Berlin: discover the services and personal support offered by Aurelia Apartments.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/",
+    "title": "Find an apartment in Berlin · Aurelia Apartments",
+    "description": "Explore furnished apartments in Berlin, compare amenities and rental periods, and enquire about your preferred stay.",
+    "url": "https://aurelia-apartments.de/en/apartments/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/",
+      "en": "https://aurelia-apartments.de/en/apartments/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/",
+          "name": "Find an apartment in Berlin",
+          "description": "Explore furnished apartments in Berlin, compare amenities and rental periods, and enquire about your preferred stay.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "zeit",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/mid-term/",
+    "title": "Mid-term apartments in Berlin · Aurelia Apartments",
+    "description": "Furnished apartments for mid-term stays in Berlin. Compare the properties, amenities and their individual rental periods.",
+    "url": "https://aurelia-apartments.de/en/apartments/mid-term/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/wohnen-auf-zeit/",
+      "en": "https://aurelia-apartments.de/en/apartments/mid-term/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/temporada/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/mid-term/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/mid-term/",
+          "name": "Mid-term apartments in Berlin",
+          "description": "Furnished apartments for mid-term stays in Berlin. Compare the properties, amenities and their individual rental periods.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "kurzzeit",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/short-term/",
+    "title": "Short-term apartments in Berlin · Aurelia Apartments",
+    "description": "Furnished apartments for short stays in Berlin-Moabit. Explore amenities, photographs and the options for your enquiry.",
+    "url": "https://aurelia-apartments.de/en/apartments/short-term/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/kurzzeit/",
+      "en": "https://aurelia-apartments.de/en/apartments/short-term/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/corta-estancia/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/short-term/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/short-term/",
+          "name": "Short-term apartments in Berlin",
+          "description": "Furnished apartments for short stays in Berlin-Moabit. Explore amenities, photographs and the options for your enquiry.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "ueber-uns",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/about/",
+    "title": "About us · Aurelia Apartments",
+    "description": "Meet Matteo Hauschild and Aurelia Apartments: personal support, carefully prepared furnished apartments and experience in hospitality.",
+    "url": "https://aurelia-apartments.de/en/about/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/ueber-uns/",
+      "en": "https://aurelia-apartments.de/en/about/",
+      "es": "https://aurelia-apartments.de/es/sobre-nosotros/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/about/#webpage",
+          "url": "https://aurelia-apartments.de/en/about/",
+          "name": "About us",
+          "description": "Meet Matteo Hauschild and Aurelia Apartments: personal support, carefully prepared furnished apartments and experience in hospitality.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "anfrage",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/enquiry/",
+    "title": "Free initial assessment · Aurelia Apartments",
+    "description": "Request a free initial assessment of your property. Aurelia Apartments supports owners with preparing and letting their property.",
+    "url": "https://aurelia-apartments.de/en/enquiry/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/anfrage/",
+      "en": "https://aurelia-apartments.de/en/enquiry/",
+      "es": "https://aurelia-apartments.de/es/consulta/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/enquiry/#webpage",
+          "url": "https://aurelia-apartments.de/en/enquiry/",
+          "name": "Free initial assessment",
+          "description": "Request a free initial assessment of your property. Aurelia Apartments supports owners with preparing and letting their property.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "sanierung",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/refurbishment/",
+    "title": "Refurbishment and furnishing · Aurelia Apartments",
+    "description": "Discover apartment preparation, refurbishment and furnishing, supported by qualified specialist contractors.",
+    "url": "https://aurelia-apartments.de/en/refurbishment/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/sanierung/",
+      "en": "https://aurelia-apartments.de/en/refurbishment/",
+      "es": "https://aurelia-apartments.de/es/reformas/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/refurbishment/#webpage",
+          "url": "https://aurelia-apartments.de/en/refurbishment/",
+          "name": "Refurbishment and furnishing",
+          "description": "Discover apartment preparation, refurbishment and furnishing, supported by qualified specialist contractors.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "impressum",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/legal-notice/",
+    "title": "Legal notice · Aurelia Apartments",
+    "description": "Provider and contact details for Aurelia Apartments UG (haftungsbeschränkt) in Berlin.",
+    "url": "https://aurelia-apartments.de/en/legal-notice/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/impressum/",
+      "en": "https://aurelia-apartments.de/en/legal-notice/",
+      "es": "https://aurelia-apartments.de/es/aviso-legal/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/legal-notice/#webpage",
+          "url": "https://aurelia-apartments.de/en/legal-notice/",
+          "name": "Legal notice",
+          "description": "Provider and contact details for Aurelia Apartments UG (haftungsbeschränkt) in Berlin.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "datenschutz",
+    "filter": "",
+    "lang": "en",
+    "found": true,
+    "path": "/en/privacy/",
+    "title": "Privacy · Aurelia Apartments",
+    "description": "Information about privacy, your rights and your choices regarding optional external content at Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/en/privacy/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/datenschutz/",
+      "en": "https://aurelia-apartments.de/en/privacy/",
+      "es": "https://aurelia-apartments.de/es/privacidad/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "AI-generated view of Berlin featuring the River Spree, Berlin Cathedral and the TV Tower",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/privacy/#webpage",
+          "url": "https://aurelia-apartments.de/en/privacy/",
+          "name": "Privacy",
+          "description": "Information about privacy, your rights and your choices regarding optional external content at Aurelia Apartments.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "antonius",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/antonius/",
+    "title": "ANTONIUS · Aurelia Apartments",
+    "description": "A modern, fully furnished and equipped residence for mid-term stays in Berlin. Furnished apartment in Friedrichshain. Enquire about amenities and rental terms.",
+    "url": "https://aurelia-apartments.de/en/apartments/antonius/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/antonius/",
+      "en": "https://aurelia-apartments.de/en/apartments/antonius/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/antonius/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/35adae45724dc2ac1e96.webp",
+    "imageAlt": "Full view of the living room with seating area, gallery wall and a view towards the dining area",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/antonius/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/antonius/",
+          "name": "ANTONIUS",
+          "description": "A modern, fully furnished and equipped residence for mid-term stays in Berlin. Furnished apartment in Friedrichshain. Enquire about amenities and rental terms.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/en/apartments/antonius/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/en/apartments/antonius/#apartment",
+          "name": "ANTONIUS",
+          "description": "A modern, fully furnished and equipped residence for mid-term stays in Berlin.",
+          "url": "https://aurelia-apartments.de/en/apartments/antonius/",
+          "image": "https://aurelia-apartments.de/assets/35adae45724dc2ac1e96.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "brutus",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/brutus/",
+    "title": "BRUTUS · Aurelia Apartments",
+    "description": "A high-quality, fully furnished studio for corporate and mid-term stays in Berlin. Furnished apartment in Wilmersdorf. Enquire about amenities and rental terms.",
+    "url": "https://aurelia-apartments.de/en/apartments/brutus/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/brutus/",
+      "en": "https://aurelia-apartments.de/en/apartments/brutus/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/brutus/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/8a8f79aeee60493d5cb0.webp",
+    "imageAlt": "Living area with sofa, dining table and TV unit",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/brutus/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/brutus/",
+          "name": "BRUTUS",
+          "description": "A high-quality, fully furnished studio for corporate and mid-term stays in Berlin. Furnished apartment in Wilmersdorf. Enquire about amenities and rental terms.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/en/apartments/brutus/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/en/apartments/brutus/#apartment",
+          "name": "BRUTUS",
+          "description": "A high-quality, fully furnished studio for corporate and mid-term stays in Berlin.",
+          "url": "https://aurelia-apartments.de/en/apartments/brutus/",
+          "image": "https://aurelia-apartments.de/assets/8a8f79aeee60493d5cb0.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "leandros",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/leandros/",
+    "title": "LEANDROS · Aurelia Apartments",
+    "description": "A furnished retreat with a private leafy terrace and a shared roof terrace. Furnished apartment in Prenzlauer Berg. Enquire about amenities and rental terms.",
+    "url": "https://aurelia-apartments.de/en/apartments/leandros/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/leandros/",
+      "en": "https://aurelia-apartments.de/en/apartments/leandros/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/leandros/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/cf935ba29ad15df4871a.webp",
+    "imageAlt": "Bright living area with sofa, open-plan kitchen and access to the private terrace",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/leandros/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/leandros/",
+          "name": "LEANDROS",
+          "description": "A furnished retreat with a private leafy terrace and a shared roof terrace. Furnished apartment in Prenzlauer Berg. Enquire about amenities and rental terms.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/en/apartments/leandros/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/en/apartments/leandros/#apartment",
+          "name": "LEANDROS",
+          "description": "A furnished retreat with a private leafy terrace and a shared roof terrace.",
+          "url": "https://aurelia-apartments.de/en/apartments/leandros/",
+          "image": "https://aurelia-apartments.de/assets/cf935ba29ad15df4871a.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "myhappyplace",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/myhappyplace/",
+    "title": "Myhappyplace in the middle of Berlin · Aurelia Apartments",
+    "description": "Two bedrooms, two bathrooms and an equipped kitchen for your stay in Berlin-Moabit. Furnished apartment in Moabit. Enquire about amenities and rental terms.",
+    "url": "https://aurelia-apartments.de/en/apartments/myhappyplace/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/myhappyplace/",
+      "en": "https://aurelia-apartments.de/en/apartments/myhappyplace/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/ee0e4d2f248cb732b6e6.webp",
+    "imageAlt": "Bright living area with sofa, dining area and TV",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/myhappyplace/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/myhappyplace/",
+          "name": "Myhappyplace in the middle of Berlin",
+          "description": "Two bedrooms, two bathrooms and an equipped kitchen for your stay in Berlin-Moabit. Furnished apartment in Moabit. Enquire about amenities and rental terms.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/en/apartments/myhappyplace/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/en/apartments/myhappyplace/#apartment",
+          "name": "Myhappyplace in the middle of Berlin",
+          "description": "Two bedrooms, two bathrooms and an equipped kitchen for your stay in Berlin-Moabit.",
+          "url": "https://aurelia-apartments.de/en/apartments/myhappyplace/",
+          "image": "https://aurelia-apartments.de/assets/ee0e4d2f248cb732b6e6.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "myhappyplace-two",
+    "lang": "en",
+    "found": true,
+    "path": "/en/apartments/myhappyplace-two/",
+    "title": "Myhappyplace two in the middle of Berlin · Aurelia Apartments",
+    "description": "Your apartment for a short stay in Berlin-Moabit, near Wiclefstraße. Furnished apartment in Moabit. Enquire about amenities and rental terms.",
+    "url": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/myhappyplace-two/",
+      "en": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/0c7ddf01f26c07e7a85b.jpg",
+    "imageAlt": "Bright living area with dining table, sofa and kitchenette",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/#webpage",
+          "url": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/",
+          "name": "Myhappyplace two in the middle of Berlin",
+          "description": "Your apartment for a short stay in Berlin-Moabit, near Wiclefstraße. Furnished apartment in Moabit. Enquire about amenities and rental terms.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/#apartment",
+          "name": "Myhappyplace two in the middle of Berlin",
+          "description": "Your apartment for a short stay in Berlin-Moabit, near Wiclefstraße.",
+          "url": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/",
+          "image": "https://aurelia-apartments.de/assets/0c7ddf01f26c07e7a85b.jpg",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "start",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/",
+    "title": "Apartamentos amueblados en Berlín · Aurelia Apartments",
+    "description": "Apartamentos amueblados en Berlín para estancias cortas y de media duración. Descubra los apartamentos y la atención personal de Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/es/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/",
+      "en": "https://aurelia-apartments.de/en/",
+      "es": "https://aurelia-apartments.de/es/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/#webpage",
+          "url": "https://aurelia-apartments.de/es/",
+          "name": "Apartamentos amueblados en Berlín",
+          "description": "Apartamentos amueblados en Berlín para estancias cortas y de media duración. Descubra los apartamentos y la atención personal de Aurelia Apartments.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "eigentuemer",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/propietarios/",
+    "title": "Para propietarios · Aurelia Apartments",
+    "description": "Reformas, mobiliario y alquiler de su inmueble en Berlín: conozca los servicios y la atención personal de Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/es/propietarios/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/eigentuemer/",
+      "en": "https://aurelia-apartments.de/en/owners/",
+      "es": "https://aurelia-apartments.de/es/propietarios/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/235de02994b07299ae8a.webp",
+    "imageAlt": "Escena generada por IA: Matteo Hauschild, visto de espaldas, asesora a un propietario ficticio",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/propietarios/#webpage",
+          "url": "https://aurelia-apartments.de/es/propietarios/",
+          "name": "Para propietarios",
+          "description": "Reformas, mobiliario y alquiler de su inmueble en Berlín: conozca los servicios y la atención personal de Aurelia Apartments.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/",
+    "title": "Buscar apartamento en Berlín · Aurelia Apartments",
+    "description": "Descubra apartamentos amueblados en Berlín, compare equipamiento y periodos de alquiler y consulte su estancia deseada.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/",
+      "en": "https://aurelia-apartments.de/en/apartments/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/",
+          "name": "Buscar apartamento en Berlín",
+          "description": "Descubra apartamentos amueblados en Berlín, compare equipamiento y periodos de alquiler y consulte su estancia deseada.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "zeit",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/temporada/",
+    "title": "Apartamentos de temporada en Berlín · Aurelia Apartments",
+    "description": "Apartamentos amueblados para estancias de temporada en Berlín. Compare los inmuebles, su equipamiento y sus periodos de alquiler.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/temporada/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/wohnen-auf-zeit/",
+      "en": "https://aurelia-apartments.de/en/apartments/mid-term/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/temporada/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/temporada/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/temporada/",
+          "name": "Apartamentos de temporada en Berlín",
+          "description": "Apartamentos amueblados para estancias de temporada en Berlín. Compare los inmuebles, su equipamiento y sus periodos de alquiler.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "wohnungen",
+    "filter": "kurzzeit",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/corta-estancia/",
+    "title": "Apartamentos de corta estancia en Berlín · Aurelia Apartments",
+    "description": "Apartamentos amueblados para estancias cortas en Berlin-Moabit. Descubra el equipamiento, las fotografías y las opciones para su consulta.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/corta-estancia/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/kurzzeit/",
+      "en": "https://aurelia-apartments.de/en/apartments/short-term/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/corta-estancia/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/corta-estancia/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/corta-estancia/",
+          "name": "Apartamentos de corta estancia en Berlín",
+          "description": "Apartamentos amueblados para estancias cortas en Berlin-Moabit. Descubra el equipamiento, las fotografías y las opciones para su consulta.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "ueber-uns",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/sobre-nosotros/",
+    "title": "Sobre nosotros · Aurelia Apartments",
+    "description": "Conozca a Matteo Hauschild y Aurelia Apartments: atención personal, apartamentos amueblados preparados con esmero y experiencia en hostelería.",
+    "url": "https://aurelia-apartments.de/es/sobre-nosotros/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/ueber-uns/",
+      "en": "https://aurelia-apartments.de/en/about/",
+      "es": "https://aurelia-apartments.de/es/sobre-nosotros/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/sobre-nosotros/#webpage",
+          "url": "https://aurelia-apartments.de/es/sobre-nosotros/",
+          "name": "Sobre nosotros",
+          "description": "Conozca a Matteo Hauschild y Aurelia Apartments: atención personal, apartamentos amueblados preparados con esmero y experiencia en hostelería.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "anfrage",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/consulta/",
+    "title": "Evaluación inicial gratuita · Aurelia Apartments",
+    "description": "Solicite una evaluación inicial gratuita de su inmueble. Aurelia Apartments acompaña a propietarios en la preparación y el alquiler.",
+    "url": "https://aurelia-apartments.de/es/consulta/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/anfrage/",
+      "en": "https://aurelia-apartments.de/en/enquiry/",
+      "es": "https://aurelia-apartments.de/es/consulta/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/consulta/#webpage",
+          "url": "https://aurelia-apartments.de/es/consulta/",
+          "name": "Evaluación inicial gratuita",
+          "description": "Solicite una evaluación inicial gratuita de su inmueble. Aurelia Apartments acompaña a propietarios en la preparación y el alquiler.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "sanierung",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/reformas/",
+    "title": "Reformas y mobiliario · Aurelia Apartments",
+    "description": "Descubra la preparación, las reformas y el mobiliario de los apartamentos, en colaboración con empresas especializadas cualificadas.",
+    "url": "https://aurelia-apartments.de/es/reformas/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/sanierung/",
+      "en": "https://aurelia-apartments.de/en/refurbishment/",
+      "es": "https://aurelia-apartments.de/es/reformas/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/reformas/#webpage",
+          "url": "https://aurelia-apartments.de/es/reformas/",
+          "name": "Reformas y mobiliario",
+          "description": "Descubra la preparación, las reformas y el mobiliario de los apartamentos, en colaboración con empresas especializadas cualificadas.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "impressum",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/aviso-legal/",
+    "title": "Aviso legal · Aurelia Apartments",
+    "description": "Datos del prestador y de contacto de Aurelia Apartments UG (haftungsbeschränkt), en Berlín.",
+    "url": "https://aurelia-apartments.de/es/aviso-legal/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/impressum/",
+      "en": "https://aurelia-apartments.de/en/legal-notice/",
+      "es": "https://aurelia-apartments.de/es/aviso-legal/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/aviso-legal/#webpage",
+          "url": "https://aurelia-apartments.de/es/aviso-legal/",
+          "name": "Aviso legal",
+          "description": "Datos del prestador y de contacto de Aurelia Apartments UG (haftungsbeschränkt), en Berlín.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "datenschutz",
+    "filter": "",
+    "lang": "es",
+    "found": true,
+    "path": "/es/privacidad/",
+    "title": "Privacidad · Aurelia Apartments",
+    "description": "Información sobre privacidad, sus derechos y la selección de contenido externo opcional en Aurelia Apartments.",
+    "url": "https://aurelia-apartments.de/es/privacidad/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/datenschutz/",
+      "en": "https://aurelia-apartments.de/en/privacy/",
+      "es": "https://aurelia-apartments.de/es/privacidad/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/c7aa80f3b1ac2b943046.webp",
+    "imageAlt": "Vista de Berlín generada con IA, con el río Spree, la catedral de Berlín y la torre de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/privacidad/#webpage",
+          "url": "https://aurelia-apartments.de/es/privacidad/",
+          "name": "Privacidad",
+          "description": "Información sobre privacidad, sus derechos y la selección de contenido externo opcional en Aurelia Apartments.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "antonius",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/antonius/",
+    "title": "ANTONIUS · Aurelia Apartments",
+    "description": "Una vivienda moderna, completamente amueblada y equipada, para alquiler de temporada en Berlín. Apartamento amueblado en Friedrichshain. Consulte el equipamiento y las condiciones de alquiler.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/antonius/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/antonius/",
+      "en": "https://aurelia-apartments.de/en/apartments/antonius/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/antonius/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/35adae45724dc2ac1e96.webp",
+    "imageAlt": "Vista general del salón con zona de asientos, pared con cuadros y vistas al comedor",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/antonius/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/antonius/",
+          "name": "ANTONIUS",
+          "description": "Una vivienda moderna, completamente amueblada y equipada, para alquiler de temporada en Berlín. Apartamento amueblado en Friedrichshain. Consulte el equipamiento y las condiciones de alquiler.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/es/apartamentos/antonius/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/antonius/#apartment",
+          "name": "ANTONIUS",
+          "description": "Una vivienda moderna, completamente amueblada y equipada, para alquiler de temporada en Berlín.",
+          "url": "https://aurelia-apartments.de/es/apartamentos/antonius/",
+          "image": "https://aurelia-apartments.de/assets/35adae45724dc2ac1e96.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "brutus",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/brutus/",
+    "title": "BRUTUS · Aurelia Apartments",
+    "description": "Un estudio de calidad, completamente amueblado, para estancias de empresa y de media duración en Berlín. Apartamento amueblado en Wilmersdorf. Consulte el equipamiento y las condiciones de alquiler.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/brutus/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/brutus/",
+      "en": "https://aurelia-apartments.de/en/apartments/brutus/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/brutus/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/8a8f79aeee60493d5cb0.webp",
+    "imageAlt": "Zona de estar con sofá, mesa de comedor y mueble de televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/brutus/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/brutus/",
+          "name": "BRUTUS",
+          "description": "Un estudio de calidad, completamente amueblado, para estancias de empresa y de media duración en Berlín. Apartamento amueblado en Wilmersdorf. Consulte el equipamiento y las condiciones de alquiler.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/es/apartamentos/brutus/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/brutus/#apartment",
+          "name": "BRUTUS",
+          "description": "Un estudio de calidad, completamente amueblado, para estancias de empresa y de media duración en Berlín.",
+          "url": "https://aurelia-apartments.de/es/apartamentos/brutus/",
+          "image": "https://aurelia-apartments.de/assets/8a8f79aeee60493d5cb0.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "leandros",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/leandros/",
+    "title": "LEANDROS · Aurelia Apartments",
+    "description": "Un refugio amueblado con terraza privada ajardinada y azotea compartida. Apartamento amueblado en Prenzlauer Berg. Consulte el equipamiento y las condiciones de alquiler.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/leandros/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/leandros/",
+      "en": "https://aurelia-apartments.de/en/apartments/leandros/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/leandros/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/cf935ba29ad15df4871a.webp",
+    "imageAlt": "Zona de estar luminosa con sofá, cocina abierta y acceso a la terraza privada",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/leandros/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/leandros/",
+          "name": "LEANDROS",
+          "description": "Un refugio amueblado con terraza privada ajardinada y azotea compartida. Apartamento amueblado en Prenzlauer Berg. Consulte el equipamiento y las condiciones de alquiler.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/es/apartamentos/leandros/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/leandros/#apartment",
+          "name": "LEANDROS",
+          "description": "Un refugio amueblado con terraza privada ajardinada y azotea compartida.",
+          "url": "https://aurelia-apartments.de/es/apartamentos/leandros/",
+          "image": "https://aurelia-apartments.de/assets/cf935ba29ad15df4871a.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "myhappyplace",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/myhappyplace/",
+    "title": "Myhappyplace in the middle of Berlin · Aurelia Apartments",
+    "description": "Dos dormitorios, dos baños y una cocina equipada para su estancia en Berlin-Moabit. Apartamento amueblado en Moabit. Consulte el equipamiento y las condiciones de alquiler.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/myhappyplace/",
+      "en": "https://aurelia-apartments.de/en/apartments/myhappyplace/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/ee0e4d2f248cb732b6e6.webp",
+    "imageAlt": "Zona de estar luminosa con sofá, comedor y televisión",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/",
+          "name": "Myhappyplace in the middle of Berlin",
+          "description": "Dos dormitorios, dos baños y una cocina equipada para su estancia en Berlin-Moabit. Apartamento amueblado en Moabit. Consulte el equipamiento y las condiciones de alquiler.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/#apartment",
+          "name": "Myhappyplace in the middle of Berlin",
+          "description": "Dos dormitorios, dos baños y una cocina equipada para su estancia en Berlin-Moabit.",
+          "url": "https://aurelia-apartments.de/es/apartamentos/myhappyplace/",
+          "image": "https://aurelia-apartments.de/assets/ee0e4d2f248cb732b6e6.webp",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "page": "apartment",
+    "filter": "myhappyplace-two",
+    "lang": "es",
+    "found": true,
+    "path": "/es/apartamentos/myhappyplace-two/",
+    "title": "Myhappyplace two in the middle of Berlin · Aurelia Apartments",
+    "description": "Su apartamento para una estancia corta en Berlin-Moabit, cerca de Wiclefstraße. Apartamento amueblado en Moabit. Consulte el equipamiento y las condiciones de alquiler.",
+    "url": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/",
+    "alternates": {
+      "de": "https://aurelia-apartments.de/apartments/myhappyplace-two/",
+      "en": "https://aurelia-apartments.de/en/apartments/myhappyplace-two/",
+      "es": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/"
+    },
+    "robots": "index,follow",
+    "image": "https://aurelia-apartments.de/assets/0c7ddf01f26c07e7a85b.jpg",
+    "imageAlt": "Zona de estar luminosa con mesa de comedor, sofá y cocina integrada",
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://aurelia-apartments.de/#organization",
+          "name": "Aurelia Apartments UG (haftungsbeschränkt)",
+          "url": "https://aurelia-apartments.de/",
+          "email": "info@aurelia-apartments.de",
+          "telephone": "+4915772119082",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Wiclefstraße 66",
+            "postalCode": "10551",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/aurelia-apartments/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://aurelia-apartments.de/#website",
+          "url": "https://aurelia-apartments.de/",
+          "name": "Aurelia Apartments",
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "inLanguage": [
+            "de",
+            "en",
+            "es"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/#webpage",
+          "url": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/",
+          "name": "Myhappyplace two in the middle of Berlin",
+          "description": "Su apartamento para una estancia corta en Berlin-Moabit, cerca de Wiclefstraße. Apartamento amueblado en Moabit. Consulte el equipamiento y las condiciones de alquiler.",
+          "inLanguage": "es",
+          "isPartOf": {
+            "@id": "https://aurelia-apartments.de/#website"
+          },
+          "publisher": {
+            "@id": "https://aurelia-apartments.de/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/#apartment"
+          }
+        },
+        {
+          "@type": "Apartment",
+          "@id": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/#apartment",
+          "name": "Myhappyplace two in the middle of Berlin",
+          "description": "Su apartamento para una estancia corta en Berlin-Moabit, cerca de Wiclefstraße.",
+          "url": "https://aurelia-apartments.de/es/apartamentos/myhappyplace-two/",
+          "image": "https://aurelia-apartments.de/assets/0c7ddf01f26c07e7a85b.jpg",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    }
+  }
+]
